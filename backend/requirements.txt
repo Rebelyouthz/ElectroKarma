@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+websockets
+python-nmap
+netifaces
+requests
+psutil
+bleak
+scapy
